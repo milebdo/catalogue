@@ -1,0 +1,125 @@
+::selection{ background-color: #E13300; color: white; }
+::moz-selection{ background-color: #E13300; color: white; }
+::webkit-selection{ background-color: #E13300; color: white; }
+
+#title {
+	margin-left: 10px;
+	font-weight: bold;
+	font-size: 20px;
+	margin-bottom: 15px
+}
+
+body {
+	background-color: #fff;
+	margin: 40px;
+	font: 13px/20px normal Helvetica, Arial, sans-serif;
+	color: #4F5155;
+}
+
+a {
+	color: #003399;
+	background-color: transparent;
+	font-weight: normal;
+}
+
+h1 {
+	color: #444;
+	background-color: transparent;
+	border-bottom: 1px solid #D0D0D0;
+	font-size: 19px;
+	font-weight: normal;
+	margin: 0 0 14px 0;
+	padding: 14px 15px 10px 15px;
+}
+
+code {
+	font-family: Consolas, Monaco, Courier New, Courier, monospace;
+	font-size: 12px;
+	background-color: #f9f9f9;
+	border: 1px solid #D0D0D0;
+	color: #002166;
+	display: block;
+	margin: 14px 0 14px 0;
+	padding: 12px 10px 12px 10px;
+}
+
+#body{
+	margin: 15px 15px 0 15px;
+}
+	
+p.footer{
+	text-align: right;
+	font-size: 11px;
+	border-top: 1px solid #D0D0D0;
+	line-height: 32px;
+	padding: 0 10px 0 10px;
+	margin: 20px 0 0 0;
+}
+	
+#container{
+	margin: 10px;
+	border: 1px solid #D0D0D0;
+	-webkit-box-shadow: 0 0 8px #D0D0D0;
+}
+	
+.tabumum{ 
+	background: white; 
+	font-family: verdana; 
+	font-size: 12px; 
+	font-weight: bold
+}
+.tdtabhead{
+	font-weight: bold;
+	padding: 5px; 
+	border: solid 1px black
+}
+
+.tdtab{
+	padding: 5px;
+	background-color: #ffffff
+}
+	
+#heads{
+	margin-left: 10px
+}
+
+#subhead{
+	font-weight: bold;
+	font-size: 15px
+}
+
+span {
+        float: left;
+        margin-top: 17px;
+        text-align: center;
+        width: 100%;
+}
+
+#trash, #items, .item {
+        height: 50px;
+        width: 50px;
+}
+
+#trash {
+        color: #354e62;
+}
+
+#items {
+       margin-top: 10px;
+       width: 100%;
+}
+
+.item {
+        background: #cdcdcd;
+        color: #3b3b3b;
+        float: left;
+        margin-right: 10px;
+}
+
+.over {
+    background-color: #cedae3;
+}
+
+.out {
+    background-color: #a6bcce;
+}
